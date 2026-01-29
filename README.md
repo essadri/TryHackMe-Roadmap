@@ -1,4 +1,37 @@
 
+#completed:
+<table border="1" cellpadding="8" cellspacing="0">
+    <thead>
+        <tr>
+            <th>completed</th>
+            <th>Link</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
 ## 📜 **Table of Contents**
 
 | 🔐 **Category**                                  | 🔢 **Rooms** | 🔒 **Rooms Completed by Me** |
