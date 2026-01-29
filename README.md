@@ -9,8 +9,8 @@
     </thead>
     <tbody>
         <tr>
-            <td></td>
-            <td></td>
+            <td>room x</td>
+            <td>www..w.w.w</td>
         </tr>
         <tr>
             <td></td>
